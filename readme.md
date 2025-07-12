@@ -48,3 +48,11 @@ streamlit run app.py
 
 MIT License (or your choice)
 
+📷 Screenshots
+
+### ✅ Prediction - Safe System
+![Safe prediction screenshot](Images/output2.png)
+
+### ⚠️ Prediction - High Risk System
+![High risk prediction screenshot](Images/output1.png)
+
